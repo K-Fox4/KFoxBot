@@ -1,0 +1,12 @@
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\bin\Debug\netcoreapp2.0\KFoxBot.deps.json
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\bin\Debug\netcoreapp2.0\KFoxBot.runtimeconfig.json
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\bin\Debug\netcoreapp2.0\KFoxBot.runtimeconfig.dev.json
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\bin\Debug\netcoreapp2.0\KFoxBot.dll
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\bin\Debug\netcoreapp2.0\KFoxBot.pdb
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\obj\Debug\netcoreapp2.0\KFoxBot.csprojAssemblyReference.cache
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\obj\Debug\netcoreapp2.0\KFoxBot.csproj.CoreCompileInputs.cache
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\obj\Debug\netcoreapp2.0\KFoxBot.AssemblyInfoInputs.cache
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\obj\Debug\netcoreapp2.0\KFoxBot.AssemblyInfo.cs
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\obj\Debug\netcoreapp2.0\KFoxBot.dll
+C:\Users\nvska\Documents\Visual Studio 2017\Repos\KFoxBot\KFoxBot\obj\Debug\netcoreapp2.0\KFoxBot.pdb
